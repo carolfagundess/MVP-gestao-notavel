@@ -12,7 +12,7 @@ public class MainTeste {
 
     public static void main(String[] args) {
 
-        Responsavel r1 = new Responsavel(null, "Carol", "testecpf", "testetelefone");
+        Responsavel r1 = new Responsavel("Carol", "testecpf", "testetelefone");
         ResponsavelDAO responsavelDao = new ResponsavelDAO();
             
         responsavelDao.salvar(r1);

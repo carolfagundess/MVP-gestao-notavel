@@ -1,5 +1,5 @@
 
-package br.com.udemyjava.gestao.notavel.mvp;
+package br.com.udemyjava.gestao.notavel.mvp.controller;
 
 import java.net.URL;
 import java.util.ResourceBundle;
